@@ -1,4 +1,4 @@
-# Automatic App Landing Page
+<!-- # Automatic App Landing Page
 **Create and deploy an iOS app landing page on GitHub Pages in only five minutes.**
 
 Designed for GitHub Pages for super easy set up. 
@@ -110,4 +110,4 @@ I'd love to see the sites you create using this little tool.
 [Emil Baehr](https://emilbaehr.com/)
 
 ## License
-[MIT License](LICENSE)
+[MIT License](LICENSE) -->
