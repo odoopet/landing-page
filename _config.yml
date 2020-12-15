@@ -1,5 +1,5 @@
 #page title
-page_title                                : Doopet - sistema de gestão para petshop                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Doopet - Sistema de gestão para petshop                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1487147093                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -9,7 +9,7 @@ playstore_link                            : https://play.google.com/store/apps/d
 presskit_download_link                    :                                         # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : https://instagram.frao1-1.fna.fbcdn.net/v/t51.2885-19/s150x150/129136206_200146141738863_2881127347192881364_n.jpg?_nc_ht=instagram.frao1-1.fna.fbcdn.net&_nc_ohc=oP4iB_uLsDUAX-J8x9j&tp=1&oh=a043f47267e62a92877f7b615dbcedbd&oe=6001B404                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Ja pensou em administrar o seu PetShop de uma forma ágil? O Doopet foi feito especialmente para você
